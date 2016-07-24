@@ -1,4 +1,6 @@
-package com.example.hellomoon;
+package com.bignerdranch.android.hellomoon;
+
+import com.example.hellomoon.R;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
